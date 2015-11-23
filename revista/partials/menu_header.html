@@ -1,0 +1,25 @@
+<md-toolbar>
+<div class="md-toolbar-tools">
+	<md-button class="md-icon-button" aria-label="Settings">
+	<md-icon md-svg-icon="img/icons/menu.svg" ng-click="openLeftMenu()"></md-icon>
+</md-button>
+<h2>
+	<span>Tema</span>
+</h2>
+
+<span flex></span>
+<md-button class="md-icon-button" aria-label="Favorite">
+<md-icon md-svg-icon="img/icons/favorite.svg" style="color: greenyellow;"></md-icon>
+</md-button>
+<md-button class="md-icon-button" aria-label="More">
+<md-menu>
+<md-button ng-click="$mdOpenMenu($event)" class="md-icon-button" aria-label="Open sample menu">
+<md-icon md-svg-icon="img/icons/more_vert.svg"></md-icon>
+</md-button>
+<md-menu-content>
+<menu-header-opcoes></menu-header-opcoes>
+</md-menu-content>
+</md-menu>
+</md-button>
+</div>
+</md-toolbar>
