@@ -5,8 +5,8 @@ app.controller('homeController', function ($scope,$mdSidenav, ngAudio) {
     $mdSidenav('left').toggle();
   };
 
-  $scope.playSound = function(){
-  	$scope.sound = ngAudio.load("sounds/folhosa.mp3"); // returns NgAudioObject
+  $scope.playSound = function(nome){
+  	$scope.sound = ngAudio.load("sounds/" + nome); // returns NgAudioObject
   	$scope.sound.play();
   }
 
