@@ -1,6 +1,6 @@
 
 //criando app
-var app = angular.module('myApp', ['ngRoute', 'ngAnimate', 'ngMaterial']);
+var app = angular.module('myApp', ['ngRoute', 'ngAnimate', 'ngMaterial', 'ngAudio']);
 
 app.config(['$routeProvider',
     function ($routeProvider) {
