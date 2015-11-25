@@ -1,0 +1,22 @@
+{
+    "materias": [
+    	{
+    		"label" : "Sumário",
+            "titulo": "Testando Noticia",
+            "autor": "Leonardo Neto",
+            "templateUrl" : "partials/materias/sumario.html"
+        },
+        {
+        	"label" : "1",
+            "titulo": "Testando Noticia",
+            "autor": "Leonardo Neto",
+            "templateUrl" : "partials/materias/1.html"
+        },
+        {
+        	"label" : "2",
+            "titulo": "Testando Noticia 2",
+            "autor": "Leonardo Neto",
+            "templateUrl" : "partials/materias/2.html"
+        }
+    ]
+}
