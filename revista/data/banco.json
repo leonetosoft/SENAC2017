@@ -17,6 +17,12 @@
             "titulo": "Testando Noticia 2",
             "autor": "Leonardo Neto",
             "templateUrl" : "partials/materias/2.html"
+        },
+        {
+            "label" : "3",
+            "titulo": "Testando Noticia 3",
+            "autor": "Leonardo Neto",
+            "templateUrl" : "partials/materias/3.html"
         }
     ]
 }
