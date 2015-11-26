@@ -14,13 +14,13 @@
         },
         {
         	"label" : "2",
-            "titulo": "Testando Noticia 2",
+            "titulo": "Como a Psicologia pode colaborar no processo de prevenção dos acidentes de trabalho",
             "autor": "Leonardo Neto",
             "templateUrl" : "partials/materias/2.html"
         },
         {
             "label" : "3",
-            "titulo": "Como psicologia pode colaborar no processo de prevencao de acidentes de trabalho",
+            "titulo": "EU SOU CONTRA A TERCEIRIZAÇÃO E A FAVOR DOS TRABALHADORES!",
             "autor": "Leonardo Neto",
             "templateUrl" : "partials/materias/3.html"
         },
