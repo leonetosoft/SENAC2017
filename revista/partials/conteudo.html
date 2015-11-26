@@ -3,7 +3,7 @@
 		<md-tabs md-selected="pagina" md-dynamic-height md-border-bottom>
 			<md-tab ng-repeat="materia in materias" label="{{materia.label}}" ng-click="playSound('folhosa.mp3'); setPage($index)">
 				<md-content class="md-padding">
-					<h1 class="md-display-2">{{materia.titulo}}</h1>
+					<h2>{{materia.titulo}}</h2>
 					<div ng-include src="materia.templateUrl"></div>
 				</md-content>
 			</md-tab>	
