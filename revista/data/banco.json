@@ -2,7 +2,7 @@
     "materias": [
     	{
     		"label" : "Sumário",
-            "titulo": "Testando Noticia",
+            "titulo": "Sumário",
             "autor": "Leonardo Neto",
             "templateUrl" : "partials/materias/sumario.html"
         },
