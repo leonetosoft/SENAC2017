@@ -20,7 +20,7 @@
         },
         {
             "label" : "3",
-            "titulo": "Testando Noticia 3",
+            "titulo": "Como psicologia pode colaborar no processo de prevencao de acidentes de trabalho",
             "autor": "Leonardo Neto",
             "templateUrl" : "partials/materias/3.html"
         },
