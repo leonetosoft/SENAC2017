@@ -23,6 +23,12 @@
             "titulo": "Testando Noticia 3",
             "autor": "Leonardo Neto",
             "templateUrl" : "partials/materias/3.html"
+        },
+        {
+            "label" : "4",
+            "titulo": "O que é o eSocial e o que tem a ver comigo?",
+            "autor": "Leonardo Neto",
+            "templateUrl" : "partials/materias/4.html"
         }
     ]
 }
